@@ -9,7 +9,7 @@
     {"id": 6, "title": "Song 6", "artist": "Artist 6", "genres": ["baroque-pop", "orchestral"] },
     {"id": 7, "title": "Song 7", "artist": "Artist 7", "genres": ["alternative-r&b", "contemporary-r&b"] },
 
-    {"id": 8, "title": "Song 8", "artist": "Artist 8", "genres": ["eletronic"] },
+    {"id": 8, "title": "Song 8", "artist": "Artist 8", "genres": ["electronic"] },
     {"id": 9, "title": "Song 9", "artist": "Artist 9", "genres": ["art-pop"] },
 
     {"id": 10, "title": "Song 10", "artist": "Artist 10", "genres": ["hyperpop"] },
