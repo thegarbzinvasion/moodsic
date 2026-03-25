@@ -9,6 +9,7 @@ if str(SRC_PATH) not in sys.path:
 from moodsic.mood_calculator import COLOR_TO_VALUE, calculate_mood_percentage
 from moodsic.rule_engine import get_bucket
 from moodsic.recommender import recommend_songs_for_genres
+from moodsic.recommender import update_user_preferences
 
 def _prompt_scale_value(label: str) -> int:
 	while True:
@@ -54,9 +55,24 @@ def main() -> None:
 	print("\nRecommended Songs:")
 	songs = recommend_songs_for_genres(bucket_result["genres"]) 
 
+	USER_ID = "user_1"
+
 	for song in songs:
 		print(f"- {song['title']} - {song['artist']}")
 
+	while True:
+		feedback = input("Did you like this song? (y/n): ").strip().lower()
+
+		if feedback == "y":
+			update_user_preferences(USER_ID, song, liked=True)
+			print("Thanks for the feedback! Marked as liked.")
+			break
+		elif feedback == "n":
+			update_user_preferences(USER_ID, song, liked=False)
+			print("Thanks for the feedback! Marked as disliked.")
+			break
+		else:
+			print("Please enter 'y' for yes or 'n' for no.")
 
 if __name__ == "__main__":
 	main()

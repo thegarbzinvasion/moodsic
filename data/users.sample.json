@@ -3,5 +3,14 @@
         "user_id": "demo",
         "genre_preferences": {},
         "feedback": []
+    },
+    {
+        "user_id": "user_1",
+        "liked_genres": [
+            "future-bass"
+        ],
+        "disliked_genres": [
+            "art-pop"
+        ]
     }
 ]
