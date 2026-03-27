@@ -21,7 +21,13 @@
             "nu jazz",
             "trap-soul",
             "orchestral",
-            "baroque-pop"
+            "baroque-pop",
+            "jazz-rap",
+            "deconstructed club",
+            "dark-ambient",
+            "drone",
+            "slowcore",
+            "chamber-folk"
         ],
         "disliked_genres": [
             "art-pop",
@@ -36,7 +42,11 @@
             "industrial metal",
             "orchestral",
             "baroque-pop",
-            "trap-soul"
+            "trap-soul",
+            "drone",
+            "dance-pop",
+            "dark-ambient",
+            "slowcore"
         ]
     }
 ]

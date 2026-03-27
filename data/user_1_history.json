@@ -53,21 +53,75 @@
             "title": "Take Me Away",
             "artist": "Globus",
             "timestamp": "2026-03-27T12:27:02.493906"
-        }
-    ],
-    "disliked_songs": [
+        },
+        {
+            "id": "The_Theme_from_\"A_Summer_Place\"_Percy_Faith_&_His_Orchestra",
+            "title": "The Theme from \"A Summer Place\"",
+            "artist": "Percy Faith & His Orchestra",
+            "timestamp": "2026-03-27T16:01:41.371073"
+        },
+        {
+            "id": "the_lakes_-_bonus_track_Taylor_Swift",
+            "title": "the lakes - bonus track",
+            "artist": "Taylor Swift",
+            "timestamp": "2026-03-27T16:03:28.014943"
+        },
         {
             "id": "Baba_Yetu_Christopher_Tin",
             "title": "Baba Yetu",
             "artist": "Christopher Tin",
-            "timestamp": "2026-03-27T12:09:20.664982"
+            "timestamp": "2026-03-27T16:03:32.982274"
         },
         {
-            "id": "Europa_Globus",
-            "title": "Europa",
-            "artist": "Globus",
-            "timestamp": "2026-03-27T12:19:55.589058"
+            "id": "Can't_Knock_The_Hustle_JAY-Z",
+            "title": "Can't Knock The Hustle",
+            "artist": "JAY-Z",
+            "timestamp": "2026-03-27T16:04:57.993834"
         },
+        {
+            "id": "CUUUUuuuuuute_ROSAL\u00cdA",
+            "title": "CUUUUuuuuuute",
+            "artist": "ROSAL\u00cdA",
+            "timestamp": "2026-03-27T16:04:59.469762"
+        },
+        {
+            "id": "Before_The_Carnival_Noise/Girl",
+            "title": "Before The Carnival",
+            "artist": "Noise/Girl",
+            "timestamp": "2026-03-27T16:09:14.377393"
+        },
+        {
+            "id": "My_Machine_Boris",
+            "title": "My Machine",
+            "artist": "Boris",
+            "timestamp": "2026-03-27T16:09:35.526287"
+        },
+        {
+            "id": "Constellations_Duster",
+            "title": "Constellations",
+            "artist": "Duster",
+            "timestamp": "2026-03-27T16:09:37.060941"
+        },
+        {
+            "id": "Lullaby_in_A_Major_(Rest_in_peace_oh_troubled_melody)_Izaak_Alexander",
+            "title": "Lullaby in A Major (Rest in peace oh troubled melody)",
+            "artist": "Izaak Alexander",
+            "timestamp": "2026-03-27T16:11:07.034411"
+        },
+        {
+            "id": "Inside_Out_Duster",
+            "title": "Inside Out",
+            "artist": "Duster",
+            "timestamp": "2026-03-27T16:11:51.875260"
+        },
+        {
+            "id": "Sailor_Hem",
+            "title": "Sailor",
+            "artist": "Hem",
+            "timestamp": "2026-03-27T16:46:16.339592"
+        }
+    ],
+    "disliked_songs": [
         {
             "id": "AMAReS\u00d3_Carol_Biazin",
             "title": "AMAReS\u00d3",
@@ -85,6 +139,90 @@
             "title": "Orchestral Intro",
             "artist": "Gorillaz",
             "timestamp": "2026-03-27T12:27:07.525672"
+        },
+        {
+            "id": "SICKO_MODE_Travis_Scott",
+            "title": "SICKO MODE",
+            "artist": "Travis Scott",
+            "timestamp": "2026-03-27T15:59:54.653005"
+        },
+        {
+            "id": "Nightcall_Kavinsky",
+            "title": "Nightcall",
+            "artist": "Kavinsky",
+            "timestamp": "2026-03-27T15:59:55.134546"
+        },
+        {
+            "id": "No_Love_Death_Grips",
+            "title": "No Love",
+            "artist": "Death Grips",
+            "timestamp": "2026-03-27T15:59:56.047295"
+        },
+        {
+            "id": "On_Melancholy_Hill_Gorillaz",
+            "title": "On Melancholy Hill",
+            "artist": "Gorillaz",
+            "timestamp": "2026-03-27T15:59:56.773756"
+        },
+        {
+            "id": "Take_Me_Away_Globus",
+            "title": "Take Me Away",
+            "artist": "Globus",
+            "timestamp": "2026-03-27T16:02:17.050927"
+        },
+        {
+            "id": 745,
+            "title": "Drift Prayer",
+            "artist": "Signal Lost",
+            "timestamp": "2026-03-27T16:02:19.022220"
+        },
+        {
+            "id": "Into_You_Ariana_Grande",
+            "title": "Into You",
+            "artist": "Ariana Grande",
+            "timestamp": "2026-03-27T16:05:01.839279"
+        },
+        {
+            "id": "Imaginary_Friends_(Pluto_Remix)_Pluto",
+            "title": "Imaginary Friends (Pluto Remix)",
+            "artist": "Pluto",
+            "timestamp": "2026-03-27T16:05:04.966250"
+        },
+        {
+            "id": "2_Ghosts_I_Nine_Inch_Nails",
+            "title": "2 Ghosts I",
+            "artist": "Nine Inch Nails",
+            "timestamp": "2026-03-27T16:09:33.374644"
+        },
+        {
+            "id": "Alternate_Universe_Aaron_Marshall",
+            "title": "Alternate Universe",
+            "artist": "Aaron Marshall",
+            "timestamp": "2026-03-27T16:11:08.784769"
+        },
+        {
+            "id": "Symphony_Of_The_Living_Dead_Zombie_Girl",
+            "title": "Symphony Of The Living Dead",
+            "artist": "Zombie Girl",
+            "timestamp": "2026-03-27T16:11:10.568444"
+        },
+        {
+            "id": "Stratosphere_Duster",
+            "title": "Stratosphere",
+            "artist": "Duster",
+            "timestamp": "2026-03-27T16:46:14.740225"
+        },
+        {
+            "id": "Stars_Will_Fall_Duster",
+            "title": "Stars Will Fall",
+            "artist": "Duster",
+            "timestamp": "2026-03-27T16:46:18.799206"
+        },
+        {
+            "id": "Constellations_Duster",
+            "title": "Constellations",
+            "artist": "Duster",
+            "timestamp": "2026-03-27T16:46:37.401783"
         }
     ],
     "recommended_songs": [
