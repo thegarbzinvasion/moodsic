@@ -1,398 +1,4002 @@
 [
-    {
-        "genre": "alternative-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 1
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "art-pop",
-        "liked": 1
-    },
-    {
-        "genre": "experimental hip-hop",
-        "liked": 1
-    },
-    {
-        "genre": "art-pop",
-        "liked": 0
-    },
-    {
-        "genre": "trap",
-        "liked": 0
-    },
-    {
-        "genre": "art-pop",
-        "liked": 0
-    },
-    {
-        "genre": "art-pop",
-        "liked": 0
-    },
-    {
-        "genre": "dream-pop",
-        "liked": 1
-    },
-    {
-        "genre": "chamber-pop",
-        "liked": 1
-    },
-    {
-        "genre": "shoegaze",
-        "liked": 1
-    },
-    {
-        "genre": "dream-pop",
-        "liked": 1
-    },
-    {
-        "genre": "shoegaze",
-        "liked": 1
-    },
-    {
-        "genre": "chamber-pop",
-        "liked": 1
-    },
-    {
-        "genre": "art-pop",
-        "liked": 1
-    },
-    {
-        "genre": "experimental hip-hop",
-        "liked": 1
-    },
-    {
-        "genre": "experimental hip-hop",
-        "liked": 1
-    },
-    {
-        "genre": "electronic",
-        "liked": 1
-    },
-    {
-        "genre": "electronic",
-        "liked": 1
-    },
-    {
-        "genre": "electronic",
-        "liked": 0
-    },
-    {
-        "genre": "electronic",
-        "liked": 1
-    },
-    {
-        "genre": "art-pop",
-        "liked": 1
-    },
-    {
-        "genre": "experimental hip-hop",
-        "liked": 1
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "trap",
-        "liked": 1
-    },
-    {
-        "genre": "electronic",
-        "liked": 0
-    },
-    {
-        "genre": "industrial metal",
-        "liked": 1
-    },
-    {
-        "genre": "nu jazz",
-        "liked": 1
-    },
-    {
-        "genre": "nu jazz",
-        "liked": 0
-    },
-    {
-        "genre": "industrial metal",
-        "liked": 0
-    },
-    {
-        "genre": "electronic",
-        "liked": 0
-    },
-    {
-        "genre": "electronic",
-        "liked": 0
-    },
-    {
-        "genre": "trap",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "alternative-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "contemporary-r&b",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 1
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 1
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 1
-    },
-    {
-        "genre": "trap-soul",
-        "liked": 0
-    },
-    {
-        "genre": "baroque-pop",
-        "liked": 0
-    },
-    {
-        "genre": "orchestral",
-        "liked": 0
-    }
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 0
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 0
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 0
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 0
+  },
+  {
+    "genre": "art-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 0
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "jazz-rap",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "digicore",
+    "liked": 0
+  },
+  {
+    "genre": "digicore",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "alternative-r&b",
+    "liked": 1
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "dance-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 0
+  },
+  {
+    "genre": "contemporary-r&b",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 0
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "nu jazz",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "bubblegum bass",
+    "liked": 1
+  },
+  {
+    "genre": "art-pop",
+    "liked": 1
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 1
+  },
+  {
+    "genre": "electronic",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "trap-soul",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "hyperpop",
+    "liked": 1
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 1
+  },
+  {
+    "genre": "chamber-pop",
+    "liked": 1
+  },
+  {
+    "genre": "slowcore",
+    "liked": 0
+  },
+  {
+    "genre": "neoclssical-darkwave",
+    "liked": 1
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "slowcore",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "experimental hip-hop",
+    "liked": 1
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 1
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "pop-rap",
+    "liked": 0
+  },
+  {
+    "genre": "industrial metal",
+    "liked": 1
+  },
+  {
+    "genre": "trap",
+    "liked": 0
+  },
+  {
+    "genre": "alt-pop",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 0
+  },
+  {
+    "genre": "conscious hip-hop",
+    "liked": 0
+  },
+  {
+    "genre": "electronic",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  },
+  {
+    "genre": "orchestral",
+    "liked": 0
+  },
+  {
+    "genre": "dark-ambient",
+    "liked": 0
+  },
+  {
+    "genre": "baroque-pop",
+    "liked": 0
+  },
+  {
+    "genre": "neo-psychedelia",
+    "liked": 1
+  },
+  {
+    "genre": "future-bass",
+    "liked": 0
+  },
+  {
+    "genre": "shoegaze",
+    "liked": 0
+  },
+  {
+    "genre": "chamber-folk",
+    "liked": 1
+  },
+  {
+    "genre": "drone",
+    "liked": 1
+  },
+  {
+    "genre": "dream-pop",
+    "liked": 0
+  },
+  {
+    "genre": "deconstructed club",
+    "liked": 1
+  }
 ]
