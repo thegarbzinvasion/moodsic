@@ -3,6 +3,7 @@ from pathlib import Path
 import random
 from typing import Any
 from moodsic.ml_model import train_model 
+from moodsic.user_history import get_user_history, get_excluded_songs, add_to_history
 
 def load_songs() -> list:
     """
@@ -40,45 +41,105 @@ def pick_random_songs(songs: list, k: int = 4) -> list:
 def recommend_songs_for_genres(genres: list, user_id: str, k: int = 4) -> list:
     """
     Recommends songs based on the given genres.
-    Loads songs from data/songs.sample.json, filters by genres, and picks k random ones.
+    Uses hybrid approach: Last.fm first, then local sample data as fallback.
     """
+    # Try Last.fm first - ask for more variety
+    lastfm_songs = []
+    try:
+        from moodsic.lastfm_client import lastfm_client
+        
+        # Get more songs than needed for variety
+        # If user has history, we can use their preferences to filter
+        tracks_per_genre = max(3, (k * 2) // len(genres)) if genres else k
+        
+        lastfm_songs = lastfm_client.get_tracks_by_multiple_tags(
+            genres, 
+            limit_per_tag=tracks_per_genre
+        )
+        
+        print(f"Found {len(lastfm_songs)} songs from Last.fm")
+        
+        # Add source tag and ensure image_url exists
+        for song in lastfm_songs:
+            song["source"] = "lastfm"
+            if "image_url" not in song:
+                song["image_url"] = None
+            
+    except Exception as e:
+        print(f"Last.fm error: {e}")
+    
+    # If Last.fm gave us enough songs, return them (already randomized)
+    if len(lastfm_songs) >= k:
+        # Randomize again to ensure variety
+        import random
+        random.shuffle(lastfm_songs)
+        return lastfm_songs[:k]
+    
+    # Otherwise, supplement with local songs
+    remaining_needed = k - len(lastfm_songs)
+    print(f"Need {remaining_needed} more songs from local database")
+    
+    # Load and filter local songs
     songs = load_songs()
     filtered = filter_songs_by_genres(songs, genres)
-
+    
+    # Remove any songs that were already recommended by Last.fm
+    lastfm_ids = {s["id"] for s in lastfm_songs}
+    filtered = [s for s in filtered if s["id"] not in lastfm_ids]
+    
+    if not filtered:
+        return lastfm_songs[:k]
+    
+    # Score local songs using user preferences and ML model
     prefs = get_user_preferences(user_id)
     liked = prefs["liked_genres"]
     disliked = prefs["disliked_genres"]
     model, vec = train_model()
-
-    # Score all songs
+    
     scored = []
     for song in filtered:
-
         base_score = score_song(song, liked, disliked)
-        if model is None or vec is None:
-            ml_score = 0
-
-        if model and vec:
-            song_features = [{"genre": g} for g in song.get("genres", [])]
-            song_features_any: Any = song_features
-            X_vec = vec.transform(song_features_any)
-
-            preds = model.predict(X_vec)    
-
-            # Average prediction across genres
-            ml_score = sum(preds) / len(preds)
+        
+        ml_score = 0
+        if model is not None and vec is not None:
+            # Create features for each genre
+            song_features = []
+            for genre in song.get("genres", []):
+                song_features.append({"genre": genre})
+            
+            if song_features:
+                try:
+                    X_vec = vec.transform(song_features)
+                    preds = model.predict(X_vec)
+                    ml_score = sum(preds) / len(preds) if preds.size > 0 else 0
+                except Exception as e:
+                    print(f"ML prediction error: {e}")
+                    ml_score = 0
         
         final_score = base_score + ml_score
         scored.append((final_score, song))
-
-    #Sort by score (highest first)
+    
+    # Sort and get top local songs
     scored.sort(key=lambda x: x[0], reverse=True)
-
-    # Extract songs only
-    ranked_songs = [song for _, song in scored]
-
-    # Return top k 
-    return ranked_songs[:k]
+    ranked_local_songs = [song for _, song in scored]
+    
+    # Add source tag and ensure image_url exists for local songs
+    for song in ranked_local_songs:
+        song["source"] = "local"
+        if "image_url" not in song:
+            song["image_url"] = None
+    
+    # Shuffle local songs for variety before combining
+    import random
+    random.shuffle(ranked_local_songs)
+    
+    # Combine: Last.fm songs first, then fill with local songs
+    combined = lastfm_songs + ranked_local_songs
+    
+    # Final shuffle for variety
+    random.shuffle(combined[:k])
+    
+    return combined[:k]
 
 def load_users():
     """
@@ -134,6 +195,9 @@ def update_user_preferences(user_id: str, song: dict, liked: bool):
     user_record.setdefault("disliked_genres", [])
     target = "liked_genres" if liked else "disliked_genres"
 
+    from moodsic.user_history import add_to_history
+    add_to_history(user_id, song, "liked" if liked else "disliked")
+
     for genre in song.get("genres", []):
         if genre not in user_record[target]:
             user_record[target].append(genre)
@@ -167,27 +231,31 @@ def score_song(song: dict, liked: list, disliked: list) -> int:
     Returns the total score for the song.
     """
     score = 0
-
-    for genre in song.get("genres", []):
+    
+    # Handle case where genres might not exist or is None
+    genres = song.get("genres", [])
+    if not genres:
+        return 0
+    
+    for genre in genres:
         if genre in liked:
-            score += 2 # reward
+            score += 2
         if genre in disliked:
-            score -= 1 # penalty 
+            score -= 1
     return score
 
 def log_interaction(song: dict, liked: bool):
-    """
-    Logs the user's interaction with a song to data/interactions.json
-    Each entry should include the song's genres and whether the user liked or disliked it.
-    """
+    """Logs the user's interaction with a song to data/interactions.json"""
     import json
     from pathlib import Path
+    from moodsic.user_history import add_to_history
 
     project_root = Path(__file__).resolve().parents[2]
     path = project_root / "data" / "interactions.json"
 
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
+    
     for genre in song.get("genres", []):
         data.append({
             "genre": genre,
@@ -196,3 +264,12 @@ def log_interaction(song: dict, liked: bool):
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
+    
+    # Also track in user history
+    user_id = "user_1"  # You might want to pass this as a parameter
+    add_to_history(user_id, song, "liked" if liked else "disliked")
+
+def clear_user_history(user_id: str):
+    """Clear user's history to reset recommendations"""
+    from moodsic.user_history import save_user_history
+    save_user_history(user_id, {"liked_songs": [], "disliked_songs": [], "recommended_songs": []})

@@ -10,6 +10,7 @@ from moodsic.mood_calculator import COLOR_TO_VALUE, calculate_mood_percentage
 from moodsic.rule_engine import get_bucket
 from moodsic.recommender import recommend_songs_for_genres
 from moodsic.recommender import update_user_preferences
+from moodsic.recommender import log_interaction
 
 def _prompt_scale_value(label: str) -> int:
 	while True:
@@ -30,7 +31,7 @@ def _prompt_color() -> str:
 	options = ", ".join(valid_colors)
 
 	while True:
-		color = input(f"Color ({options}): ").strip().lower()
+		color = input(f"Q4 Color ({options}): ").strip().lower()
 		if color in COLOR_TO_VALUE:
 			return color
 		print(f"Please choose one of: {options}")
@@ -52,27 +53,35 @@ def main() -> None:
 	print(f"Mood % (rounded): {round(mood_pct)}")
 	print(f"Bucket: {bucket_result['bucket']}")
 
-	print("\nRecommended Songs:")
-	songs = recommend_songs_for_genres(bucket_result["genres"]) 
-
 	USER_ID = "user_1"
 
+	print("\nRecommended Songs:")
+	songs = recommend_songs_for_genres(bucket_result["genres"], USER_ID)
+
+	for i, song in enumerate (songs, start=1):	
+		print(f"{i}.{song['title']} - {song['artist']}")
+
+	print("\nGive feedback: ")
+
 	for song in songs:
-		print(f"- {song['title']} - {song['artist']}")
+		while True:
+			feedback = input(f"Did you like '{song['title']}'? (y/n/skip): ").strip().lower()
 
-	while True:
-		feedback = input("Did you like this song? (y/n): ").strip().lower()
-
-		if feedback == "y":
-			update_user_preferences(USER_ID, song, liked=True)
-			print("Thanks for the feedback! Marked as liked.")
-			break
-		elif feedback == "n":
-			update_user_preferences(USER_ID, song, liked=False)
-			print("Thanks for the feedback! Marked as disliked.")
-			break
-		else:
-			print("Please enter 'y' for yes or 'n' for no.")
+			if feedback == "y":
+				update_user_preferences(USER_ID, song, liked=True)
+				log_interaction(song, liked=True)
+				print("Thanks for the feedback! Marked as liked.")
+				break
+			elif feedback == "n":
+				update_user_preferences(USER_ID, song, liked=False)
+				log_interaction(song, liked=False)
+				print("Thanks for the feedback! Marked as disliked.")
+				break
+			elif feedback == "skip":
+				print("Skipping this song...")
+				break
+			else:
+				print("Please enter 'y' for yes, 'n' for no, or 'skip' to move to the next song.")
 
 if __name__ == "__main__":
 	main()

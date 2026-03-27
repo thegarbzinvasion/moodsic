@@ -1,0 +1,398 @@
+[
+    {
+        "genre": "alternative-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 1
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "art-pop",
+        "liked": 1
+    },
+    {
+        "genre": "experimental hip-hop",
+        "liked": 1
+    },
+    {
+        "genre": "art-pop",
+        "liked": 0
+    },
+    {
+        "genre": "trap",
+        "liked": 0
+    },
+    {
+        "genre": "art-pop",
+        "liked": 0
+    },
+    {
+        "genre": "art-pop",
+        "liked": 0
+    },
+    {
+        "genre": "dream-pop",
+        "liked": 1
+    },
+    {
+        "genre": "chamber-pop",
+        "liked": 1
+    },
+    {
+        "genre": "shoegaze",
+        "liked": 1
+    },
+    {
+        "genre": "dream-pop",
+        "liked": 1
+    },
+    {
+        "genre": "shoegaze",
+        "liked": 1
+    },
+    {
+        "genre": "chamber-pop",
+        "liked": 1
+    },
+    {
+        "genre": "art-pop",
+        "liked": 1
+    },
+    {
+        "genre": "experimental hip-hop",
+        "liked": 1
+    },
+    {
+        "genre": "experimental hip-hop",
+        "liked": 1
+    },
+    {
+        "genre": "electronic",
+        "liked": 1
+    },
+    {
+        "genre": "electronic",
+        "liked": 1
+    },
+    {
+        "genre": "electronic",
+        "liked": 0
+    },
+    {
+        "genre": "electronic",
+        "liked": 1
+    },
+    {
+        "genre": "art-pop",
+        "liked": 1
+    },
+    {
+        "genre": "experimental hip-hop",
+        "liked": 1
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "trap",
+        "liked": 1
+    },
+    {
+        "genre": "electronic",
+        "liked": 0
+    },
+    {
+        "genre": "industrial metal",
+        "liked": 1
+    },
+    {
+        "genre": "nu jazz",
+        "liked": 1
+    },
+    {
+        "genre": "nu jazz",
+        "liked": 0
+    },
+    {
+        "genre": "industrial metal",
+        "liked": 0
+    },
+    {
+        "genre": "electronic",
+        "liked": 0
+    },
+    {
+        "genre": "electronic",
+        "liked": 0
+    },
+    {
+        "genre": "trap",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "alternative-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "contemporary-r&b",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 1
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 1
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 1
+    },
+    {
+        "genre": "trap-soul",
+        "liked": 0
+    },
+    {
+        "genre": "baroque-pop",
+        "liked": 0
+    },
+    {
+        "genre": "orchestral",
+        "liked": 0
+    }
+]

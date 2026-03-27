@@ -7,10 +7,36 @@
     {
         "user_id": "user_1",
         "liked_genres": [
-            "future-bass"
+            "future-bass",
+            "art-pop",
+            "alternative-r&b",
+            "contemporary-r&b",
+            "experimental hip-hop",
+            "dream-pop",
+            "chamber-pop",
+            "shoegaze",
+            "electronic",
+            "trap",
+            "industrial metal",
+            "nu jazz",
+            "trap-soul",
+            "orchestral",
+            "baroque-pop"
         ],
         "disliked_genres": [
-            "art-pop"
+            "art-pop",
+            "neo-psychedelia",
+            "alternative-r&b",
+            "contemporary-r&b",
+            "future-bass",
+            "experimental hip-hop",
+            "trap",
+            "electronic",
+            "nu jazz",
+            "industrial metal",
+            "orchestral",
+            "baroque-pop",
+            "trap-soul"
         ]
     }
 ]

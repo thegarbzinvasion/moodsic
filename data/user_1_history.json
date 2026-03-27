@@ -1,0 +1,116 @@
+{
+    "liked_songs": [
+        {
+            "id": "AMAReS\u00d3_Carol_Biazin",
+            "title": "AMAReS\u00d3",
+            "artist": "Carol Biazin",
+            "timestamp": "2026-03-27T11:50:12.249587"
+        },
+        {
+            "id": "What_You_Saying_Lil_Uzi_Vert",
+            "title": "What You Saying",
+            "artist": "Lil Uzi Vert",
+            "timestamp": "2026-03-27T11:58:12.786509"
+        },
+        {
+            "id": "Save_Me_JEZTLS",
+            "title": "Save Me",
+            "artist": "JEZTLS",
+            "timestamp": "2026-03-27T12:08:52.835909"
+        },
+        {
+            "id": "Europa_Globus",
+            "title": "Europa",
+            "artist": "Globus",
+            "timestamp": "2026-03-27T12:08:53.760847"
+        },
+        {
+            "id": "Someday_Kaye",
+            "title": "Someday",
+            "artist": "Kaye",
+            "timestamp": "2026-03-27T12:08:54.547351"
+        },
+        {
+            "id": "Orchestral_Intro_Gorillaz",
+            "title": "Orchestral Intro",
+            "artist": "Gorillaz",
+            "timestamp": "2026-03-27T12:09:16.818169"
+        },
+        {
+            "id": "Var\u00fa\u00f0_Sigur_R\u00f3s",
+            "title": "Var\u00fa\u00f0",
+            "artist": "Sigur R\u00f3s",
+            "timestamp": "2026-03-27T12:09:23.528939"
+        },
+        {
+            "id": "the_lakes_-_original_version_Taylor_Swift",
+            "title": "the lakes - original version",
+            "artist": "Taylor Swift",
+            "timestamp": "2026-03-27T12:23:43.687545"
+        },
+        {
+            "id": "Take_Me_Away_Globus",
+            "title": "Take Me Away",
+            "artist": "Globus",
+            "timestamp": "2026-03-27T12:27:02.493906"
+        }
+    ],
+    "disliked_songs": [
+        {
+            "id": "Baba_Yetu_Christopher_Tin",
+            "title": "Baba Yetu",
+            "artist": "Christopher Tin",
+            "timestamp": "2026-03-27T12:09:20.664982"
+        },
+        {
+            "id": "Europa_Globus",
+            "title": "Europa",
+            "artist": "Globus",
+            "timestamp": "2026-03-27T12:19:55.589058"
+        },
+        {
+            "id": "AMAReS\u00d3_Carol_Biazin",
+            "title": "AMAReS\u00d3",
+            "artist": "Carol Biazin",
+            "timestamp": "2026-03-27T12:23:45.687476"
+        },
+        {
+            "id": "Someday_Kaye",
+            "title": "Someday",
+            "artist": "Kaye",
+            "timestamp": "2026-03-27T12:23:51.448401"
+        },
+        {
+            "id": "Orchestral_Intro_Gorillaz",
+            "title": "Orchestral Intro",
+            "artist": "Gorillaz",
+            "timestamp": "2026-03-27T12:27:07.525672"
+        }
+    ],
+    "recommended_songs": [
+        {
+            "id": "Someday_Kaye",
+            "title": "Someday",
+            "artist": "Kaye",
+            "timestamp": "2026-03-27T11:40:34.317480"
+        },
+        {
+            "id": "AMAReS\u00d3_Carol_Biazin",
+            "title": "AMAReS\u00d3",
+            "artist": "Carol Biazin",
+            "timestamp": "2026-03-27T11:40:34.341813"
+        },
+        {
+            "id": "Save_Me_JEZTLS",
+            "title": "Save Me",
+            "artist": "JEZTLS",
+            "timestamp": "2026-03-27T11:40:34.365925"
+        },
+        {
+            "id": "Orchestral_Intro_Gorillaz",
+            "title": "Orchestral Intro",
+            "artist": "Gorillaz",
+            "timestamp": "2026-03-27T11:40:34.387106"
+        }
+    ]
+}
